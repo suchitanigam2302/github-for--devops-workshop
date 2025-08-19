@@ -1,0 +1,15 @@
+ 3 cd E:\github-for-devops-workshop\testing.py
+   4 clear
+   5 python testing.py
+   6 clear
+   7 ls
+   8 ls -l
+   9 clear
+  10 git init
+  11 dir
+  12 git status
+  13 git add testing.py
+  14 git status
+  15 git commit -m "added testing files"
+  16 gir status
+  17 git status
