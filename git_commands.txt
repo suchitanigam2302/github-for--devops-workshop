@@ -21,6 +21,9 @@
   31 git remote -v
   32 git push origin master
   33 clear
+
+
+this is some new changes
   34 git remote -v
   35 git remote set-url origin https://ghp_wejkhbvgY95KOhGY5mCSN5KD...
   36 git remote -v
