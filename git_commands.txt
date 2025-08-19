@@ -13,3 +13,17 @@
   15 git commit -m "added testing files"
   16 gir status
   17 git status
+  git remote add origin https://github.com/suchitanigam2302/gith... 
+  27 git remote -v
+  28 git remote set-url origin https://ghp_wejkhbvgY95KOhGY5mCSN5KD... 
+  29 git remove -v
+  30 clear
+  31 git remote -v
+  32 git push origin master
+  33 clear
+  34 git remote -v
+  35 git remote set-url origin https://ghp_wejkhbvgY95KOhGY5mCSN5KD...
+  36 git remote -v
+  37 git push origin master
+  38 git push origin master
+  39 clear
